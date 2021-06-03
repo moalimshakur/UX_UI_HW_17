@@ -1,0 +1,30 @@
+.pink {
+    border: none;
+    background-color: pink;    
+    text-align: center;
+    height: 200px; 
+  }
+  .bluesection {
+    border: none;
+    background-color: babyblue;    
+    text-align: center;
+    height: 200px; 
+  }
+  .whitesection {
+    border: none;
+    background-color: none;    
+    text-align: center;
+    height: 200px; 
+  }
+  .infocard {
+    border: none;
+    background-color: none;    
+    text-align: center;
+    height: 200px; 
+  }
+  .header {
+    border: none;
+    background-color: none;    
+    text-align: center;
+    height: 200px; 
+  }
